@@ -1,0 +1,14 @@
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.csprojResolveAssemblyReference.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.csproj.CoreCompileInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.dll
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.pdb

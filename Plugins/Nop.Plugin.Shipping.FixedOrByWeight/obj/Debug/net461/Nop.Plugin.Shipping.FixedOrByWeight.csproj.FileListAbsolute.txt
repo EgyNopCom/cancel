@@ -1,0 +1,17 @@
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\plugin.json
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\AddRateByWeightPopup.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\Configure.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\EditRateByWeightPopup.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ByWeight.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_CreateOrUpdateRateByWeight.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_FixedRate.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ViewImports.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\logo.jpg
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.pdb
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.csprojResolveAssemblyReference.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.csproj.CoreCompileInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.AssemblyInfoInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.AssemblyInfo.cs
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.pdb

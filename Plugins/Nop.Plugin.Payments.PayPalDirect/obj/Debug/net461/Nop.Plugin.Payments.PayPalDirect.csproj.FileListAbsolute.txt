@@ -1,0 +1,13 @@
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\plugin.json
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\_ViewImports.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.csproj.CoreCompileInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.AssemblyInfoInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.AssemblyInfo.cs
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.dll
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.pdb

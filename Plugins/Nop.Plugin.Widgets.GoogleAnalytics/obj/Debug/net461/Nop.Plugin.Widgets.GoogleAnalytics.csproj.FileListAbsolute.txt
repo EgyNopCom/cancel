@@ -1,0 +1,13 @@
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CoreCompileInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.pdb

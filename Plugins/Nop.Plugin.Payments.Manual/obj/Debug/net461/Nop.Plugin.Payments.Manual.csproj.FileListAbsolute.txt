@@ -1,0 +1,13 @@
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Manual\plugin.json
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Manual\Views\_ViewImports.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.dll
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.pdb

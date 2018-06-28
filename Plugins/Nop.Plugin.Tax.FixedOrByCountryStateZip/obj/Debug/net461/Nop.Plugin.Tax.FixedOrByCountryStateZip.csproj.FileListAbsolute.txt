@@ -1,0 +1,14 @@
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\plugin.json
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_ViewImports.cshtml
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+C:\EgyNopCom\cancel order\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojResolveAssemblyReference.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfoInputs.cache
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfo.cs
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+C:\EgyNopCom\cancel order\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
