@@ -4,7 +4,7 @@ using Nop.Web.Framework.Mvc.Filters;
 
 namespace Nop.Web.Controllers
 {
-
+    public partial class CountryController : BasePublicController
 	{
         #region Fields
 
@@ -29,7 +29,6 @@ namespace Nop.Web.Controllers
         {
             var model = _countryModelFactory.GetStatesByCountryId(countryId, addSelectStateItem);
             return Json(model);
-	    fdgryyyyyy
         }
         
         #endregion
